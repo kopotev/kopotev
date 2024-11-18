@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kopotev
-- 👀 I’m interested in corpus-driven research, Russian language 
-- 💞️ I’m looking to collaborate on grammar correction, collocation extraction, distributional semantics. 
+- 👀 I’m interested in corpus-driven research, Slavic language 
+- 💞️ I want to collaborate on grammar correction, collocation extraction, and distributional semantics. 
 - 📫 How to reach me: mihail dot kopotev at gmail dot com
 
 <!---
